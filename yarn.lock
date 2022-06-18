@@ -712,10 +712,10 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/react@17.0.29":
-  version "17.0.29"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.29.tgz#9535f3fc01a4981ce9cadcf0daa2593c0c2f2251"
-  integrity sha512-HSenIfBEBZ70BLrrVhtEtHpqaP79waauPtA8XKlczTxL3hXrW/ElGNLTpD1TmqkykgGlOAK55+D3SmUHEirpFw==
+"@types/react@17.0.47":
+  version "17.0.47"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.47.tgz#4ee71aaf4c5a9e290e03aa4d0d313c5d666b3b78"
+  integrity sha512-mk0BL8zBinf2ozNr3qPnlu1oyVTYq+4V7WA76RgxUAtf0Em/Wbid38KN6n4abEkvO4xMTBWmnP1FtQzgkEiJoA==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
