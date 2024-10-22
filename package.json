@@ -33,7 +33,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "7.15.8",
+    "@babel/core": "7.25.9",
     "@next/bundle-analyzer": "11.1.2",
     "@types/node": "16.10.3",
     "@types/react": "17.0.29",
